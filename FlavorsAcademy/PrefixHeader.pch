@@ -1,0 +1,45 @@
+//
+//  PrefixHeader.pch
+//  FlavorsAcademy
+//
+//  Created by Bibo on 11/13/15.
+//  Copyright © 2015 Alminty. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "PeachKit.h"
+
+#import "FARouteManager.h"
+#import "FAUserManager.h"
+#import "FARequestManager.h"
+#import "FAViewModelsManager.h"
+#import "FALocationManager.h"
+
+#import "FABaseNavVC.h"
+
+#import "UIColor+FA.h"
+#import "FAPaintCode.h"
+
+#import <AFNetworking.h>
+#import <UIImageView+AFNetworking.h>
+#import <ReactiveCocoa.h>
+#import <Fabric/Fabric.h>
+#import <Crashlytics/Crashlytics.h>
+#import <Firebase.h>
+#import <FBSDKCoreKit/FBSDKCoreKit.h>
+#import <FBSDKLoginKit.h>
+#import <SVProgressHUD.h>
+#import <Parse.h>
+#import "DGActivityIndicatorView.h"
+#import "CBStoreHouseRefreshControl.h"
+
+#import "DataModels.h"
+
+#endif /* PrefixHeader_pch */
+
+

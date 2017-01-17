@@ -1,0 +1,597 @@
+{
+    "homePage": [
+        {
+            "children": [
+
+                {
+                    "displayTitle": "Salt",
+                    "imageUrl": "http://res.cloudinary.com/dj499fqns/image/upload/v1450122324/salt_mvt6o2.jpg",
+                    "lookupKey": "learn_salt",
+                    "type": "subcategory"
+                },{
+                    "displayTitle": "Marco Pierre White",
+                    "imageUrl": "http://res.cloudinary.com/dj499fqns/image/upload/v1449550884/marco_ycyz4k.jpg",
+                    "lookupKey": "marco_pierre_white",
+                    "type": "subcategory"
+                },
+                {
+                    "displayTitle": "Bobby Flay",
+                    "imageUrl": "http://res.cloudinary.com/dj499fqns/image/upload/v1449550885/bobby_yjkjlh.jpg",
+                    "lookupKey": "bobby_flay",
+                    "type": "subcategory"
+                },
+                {
+                    "displayTitle": "Kale Salad",
+                    "imageUrl": "http://res.cloudinary.com/dj499fqns/image/upload/v1449550885/kalesald_myfeus.jpg",
+                    "lookupKey": "kale_salad",
+                    "type": "subcategory"
+                },
+                {
+                    "displayTitle": "Food Documentaries",
+                    "imageUrl": "http://res.cloudinary.com/dj499fqns/image/upload/v1449550885/documentary_bqqdef.jpg",
+                    "lookupKey": "food_documentaries",
+                    "type": "subcategory"
+                }
+            ],
+            "displayTitle": "",
+            "lookupKey": "slider_intro",
+            "type": "slider"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "displayTitle": "Knife skills",
+                                    "lookupKey": "knife_skills",
+                                    "type": "subsections"
+                                },
+                                {
+                                    "displayTitle": "Food safety and sanitation",
+                                    "lookupKey": "food_safety",
+                                    "type": "subsections"
+                                },
+                                {
+                                    "displayTitle": "Culinary Math",
+                                    "lookupKey": "culinary_math",
+                                    "type": "subsections"
+                                }
+                            ],
+                            "displayTitle": "CULINARY FUNDAMENTALS",
+                            "lookupKey": "culinary_fundamentals",
+                            "type": "sections"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "displayTitle": "Beef",
+                                    "lookupKey": "beef",
+                                    "type": "subsections"
+                                },
+                                {
+                                    "displayTitle": "Pork",
+                                    "lookupKey": "pork",
+                                    "type": "subsections"
+                                },
+                                {
+                                    "displayTitle": "Sheep",
+                                    "lookupKey": "sheep",
+                                    "type": "subsections"
+                                },
+                                {
+                                    "displayTitle": "Poultry",
+                                    "lookupKey": "poultry",
+                                    "type": "subsections"
+                                },
+                                {
+                                    "displayTitle": "Fish",
+                                    "lookupKey": "fish",
+                                    "type": "subsections"
+                                }
+                            ],
+                            "displayTitle": "INTRODUCTION TO MEAT, FISH, AND POULTRY",
+                            "lookupKey": "meat_fish_poultry",
+                            "type": "sections"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "displayTitle": "Soups",
+                                    "lookupKey": "soups",
+                                    "type": "subsections"
+                                },
+                                {
+                                    "displayTitle": "Sauces",
+                                    "lookupKey": "sauces",
+                                    "type": "subsections"
+                                }
+                            ],
+                            "displayTitle": "SOUPS AND SAUCES",
+                            "lookupKey": "soups_and_sauces",
+                            "type": "sections"
+                        }
+                    ],
+                    "displayTitle": "Freshman",
+                    "lookupKey": "ca_level_one",
+                    "type": "subcategory"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "displayTitle": "Sautéing",
+                                    "lookupKey": "sauteing",
+                                    "type": "subsections"
+                                },
+                                {
+                                    "displayTitle": "Pan-frying",
+                                    "lookupKey": "pan_frying",
+                                    "type": "subsections"
+                                },
+                                {
+                                    "displayTitle": "Deep-frying",
+                                    "lookupKey": "deep_frying",
+                                    "type": "subsections"
+                                },
+                                {
+                                    "displayTitle": "Grilling",
+                                    "lookupKey": "grilling",
+                                    "type": "subsections"
+                                },
+                                {
+                                    "displayTitle": "Roasting",
+                                    "lookupKey": "roasting",
+                                    "type": "subsections"
+                                }
+                            ],
+                            "displayTitle": "DRY-HEAT COOKING METHODS",
+                            "lookupKey": "dry_heat_cooking",
+                            "type": "sections"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "displayTitle": "Braising",
+                                    "lookupKey": "braising",
+                                    "type": "subsections"
+                                },
+                                {
+                                    "displayTitle": "Stewing",
+                                    "lookupKey": "stewing",
+                                    "type": "subsections"
+                                },
+                                {
+                                    "displayTitle": "Shallow poaching",
+                                    "lookupKey": "shallow_poaching",
+                                    "type": "subsections"
+                                },
+                                {
+                                    "displayTitle": "Deep-poaching",
+                                    "lookupKey": "deep_poaching",
+                                    "type": "subsections"
+                                },
+                                {
+                                    "displayTitle": "Steaming",
+                                    "lookupKey": "steaming",
+                                    "type": "subsections"
+                                }
+                            ],
+                            "displayTitle": "MOIST-HEAT COOKING METHODS",
+                            "lookupKey": "moist_heat_cooking",
+                            "type": "sections"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "displayTitle": "Egg",
+                                    "lookupKey": "egg",
+                                    "type": "subsections"
+                                },
+                                {
+                                    "displayTitle": "Griddle",
+                                    "lookupKey": "griddle",
+                                    "type": "subsections"
+                                },
+                                {
+                                    "displayTitle": "Cereals",
+                                    "lookupKey": "cereals",
+                                    "type": "subsections"
+                                },
+                                {
+                                    "displayTitle": "Crêpes",
+                                    "lookupKey": "crepes",
+                                    "type": "subsections"
+                                },
+                                {
+                                    "displayTitle": "Breakfast meats",
+                                    "lookupKey": "breakfast_meats",
+                                    "type": "subsections"
+                                },
+                                {
+                                    "displayTitle": "Simple and composed salads",
+                                    "lookupKey": "salads",
+                                    "type": "subsections"
+                                },
+                                {
+                                    "displayTitle": "Dressings and vinaigrettes",
+                                    "lookupKey": "dressings_vinaigrettes",
+                                    "type": "subsections"
+                                },
+                                {
+                                    "displayTitle": "Assorted sandwiches",
+                                    "lookupKey": "assorted_sandwiches",
+                                    "type": "subsections"
+                                },
+                                {
+                                    "displayTitle": "Grains and legumes",
+                                    "lookupKey": "grains_legumes",
+                                    "type": "subsections"
+                                },
+                                {
+                                    "displayTitle": "Soufflés, gratins, and timbales",
+                                    "lookupKey": "souffles_gratins_timbales",
+                                    "type": "subsections"
+                                }
+                            ],
+                            "displayTitle": "BREAKFAST, BRUNCH, AND LUNCH",
+                            "lookupKey": "breakfast_brunch_lunch",
+                            "type": "sections"
+                        }
+                    ],
+                    "displayTitle": "Sophomore",
+                    "lookupKey": "ca_level_two",
+                    "type": "subcategory"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "displayTitle": "Hors d'Oeuvres",
+                                    "lookupKey": "horsdoeuvres",
+                                    "type": "subcategory"
+                                },
+                                {
+                                    "displayTitle": "Charcuterie",
+                                    "lookupKey": "charcuterie",
+                                    "type": "subcategory"
+                                }],
+                            "displayTitle": "HORS D’OEUVRES & CHARCUTERIE",
+                            "lookupKey": "horsdoeuvres_charcuterie_buffets",
+                            "type": "sections"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "displayTitle": "Techniques",
+                                    "lookupKey": "dessert_techniques",
+                                    "type": "subsections"
+                                },
+                                {
+                                    "displayTitle": "Cakes",
+                                    "lookupKey": "cakes",
+                                    "type": "subsections"
+                                },
+                                {
+                                    "displayTitle": "Sorbets & Ice Cream",
+                                    "lookupKey": "sorbets_ice_cream",
+                                    "type": "subsections"
+                                },
+                                {
+                                    "displayTitle": "International Desserts",
+                                    "lookupKey": "international_desserts",
+                                    "type": "subsections"
+                                }
+                            ],
+                            "displayTitle": "DESSERTS",
+                            "lookupKey": "curriculum_desserts",
+                            "type": "sections"
+                        },
+                        {   "children": [
+                                {
+                                    "displayTitle": "Basics",
+                                    "lookupKey": "garnishing_basics",
+                                    "type": "subsections"
+                                },
+                                {
+                                    "displayTitle": "Table Setting",
+                                    "lookupKey": "table_setting",
+                                    "type": "subsections"
+                                }
+                            ],
+                            "displayTitle": "GARNISHING",
+                            "lookupKey": "garnishing",
+                            "type": "sections"
+                        }
+                    ],
+                    "displayTitle": "Junior",
+                    "lookupKey": "ca_level_three",
+                    "type": "subcategory"
+                },
+                {
+                    "children": [
+                    {
+                            "children": [
+                                {
+                                    "displayTitle": "Thailand",
+                                    "lookupKey": "ca_thailand",
+                                    "type": "subcategory"
+                                },
+                                {
+                                    "displayTitle": "France",
+                                    "lookupKey": "ca_france",
+                                    "type": "subcategory"
+                                },
+                                {
+                                    "displayTitle": "China",
+                                    "lookupKey": "ca_china",
+                                    "type": "subcategory"
+                                },
+                                {
+                                    "displayTitle": "Italy",
+                                    "lookupKey": "ca_italy",
+                                    "type": "subcategory"
+                                },
+                                {
+                                    "displayTitle": "Africa",
+                                    "lookupKey": "ca_africa",
+                                    "type": "subcategory"
+                                },
+                                {
+                                    "displayTitle": "India",
+                                    "lookupKey": "ca_india",
+                                    "type": "subcategory"
+                                },
+                                {
+                                    "displayTitle": "Japan",
+                                    "lookupKey": "ca_japan",
+                                    "type": "subcategory"
+                                },
+                                {
+                                    "displayTitle": "Mexico",
+                                    "lookupKey": "ca_mexico",
+                                    "type": "subcategory"
+                                },
+                                {
+                                    "displayTitle": "Russia",
+                                    "lookupKey": "ca_russia",
+                                    "type": "subcategory"
+                                }
+                            ],
+                            "displayTitle": "INTERNATIONAL CUISINE",
+                            "lookupKey": "curriculum_international_cuisine",
+                            "type": "sections"
+                        }
+                    ],
+                    "displayTitle": "Senior",
+                    "lookupKey": "ca_level_four",
+                    "type": "subcategory"
+                },
+                {
+                    "children": [
+                        {
+                            "displayTitle": "PAIRING",
+                            "lookupKey": "pairing",
+                            "type": "sections"
+                        },
+                        {
+                            "displayTitle": "MODERN CULINARY MASTERS",
+                            "lookupKey": "modern_culinary_masters",
+                            "type": "sections"
+                        }
+                    ],
+                    "displayTitle": "Masters",
+                    "lookupKey": "ca_level_five",
+                    "type": "subcategory"
+                }
+            ],
+            "displayTitle": "CULINARY ARTS",
+            "lookupKey": "category_culinary_art",
+            "type": "category_curriculum"
+        },
+        {
+            "children": [
+                {
+                    "displayTitle": "Raymond Blanc",
+                    "lookupKey": "raymond_blanc",
+                    "type": "subcategory"
+                },
+                {
+                    "displayTitle": "Marco Pierre White",
+                    "lookupKey": "marco_pierre_white",
+                    "type": "subcategory"
+                },
+                {
+                    "displayTitle": "Bobby Flay",
+                    "lookupKey": "bobby_flay",
+                    "type": "subcategory"
+                },
+                {
+                    "displayTitle": "Curtis Stone",
+                    "lookupKey": "curtis_stone",
+                    "type": "subcategory"
+                },
+                {
+                    "displayTitle": "Heston Blumenthal",
+                    "lookupKey": "heston_blumenthal",
+                    "type": "subcategory"
+                },
+                {
+                    "displayTitle": "Jamie Oliver",
+                    "lookupKey": "jamie_oliver",
+                    "type": "subcategory"
+                }
+            ],
+            "displayTitle": "CHEFS",
+            "lookupKey": "category_instructors",
+            "type": "category"
+        },
+        {
+            "children": [
+                {
+                    "displayTitle": "Eggs",
+                    "imageUrl": "http://cdn1.medicalnewstoday.com/content/images/articles/283/283659/eggs.jpg",
+                    "lookupKey": "egg",
+                    "type": "subcategory"
+                },
+                {
+                    "displayTitle": "Asparagus",
+                    "imageUrl": "http://www.dailyperricone.com/wp-content/uploads/2011/04/Asparagus-505x336.jpg",
+                    "lookupKey": "asparagus",
+                    "type": "subcategory"
+                },
+                {
+                    "displayTitle": "Sauerkraut",
+                    "imageUrl": "http://farm4.static.flickr.com/3029/2476117837_94c8b64f17.jpg",
+                    "lookupKey": "sauerkraut",
+                    "type": "subcategory"
+                },
+                {
+                    "displayTitle": "Tomato",
+                    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Bright_red_tomato_and_cross_section02.jpg",
+                    "lookupKey": "tomato",
+                    "type": "subcategory"
+                }
+            ],
+            "displayTitle": "INGREDIENTS",
+            "lookupKey": "category_ingredients",
+            "type": "category"
+        },
+        {
+            "children": [
+                {
+                    "displayTitle": "Thailand",
+                    "lookupKey": "thailand",
+                    "type": "subcategory"
+                },
+                {
+                    "displayTitle": "France",
+                    "lookupKey": "france",
+                    "type": "subcategory"
+                },
+                {
+                    "displayTitle": "China",
+                    "lookupKey": "china",
+                    "type": "subcategory"
+                },
+                {
+                    "displayTitle": "America",
+                    "lookupKey": "america",
+                    "type": "subcategory"
+                },
+                {
+                    "displayTitle": "Italy",
+                    "lookupKey": "italy",
+                    "type": "subcategory"
+                },
+                {
+                    "displayTitle": "Korea",
+                    "lookupKey": "korea",
+                    "type": "subcategory"
+                },
+                {
+                    "displayTitle": "Africa",
+                    "lookupKey": "africa",
+                    "type": "subcategory"
+                },
+                {
+                    "displayTitle": "India",
+                    "lookupKey": "india",
+                    "type": "subcategory"
+                },
+                {
+                    "displayTitle": "Japan",
+                    "lookupKey": "japan",
+                    "type": "subcategory"
+                },
+                {
+                    "displayTitle": "Mexico",
+                    "lookupKey": "mexico",
+                    "type": "subcategory"
+                }
+            ],
+            "displayTitle": "REGIONS",
+            "lookupKey": "category_countries",
+            "type": "category"
+        },
+        {
+            "children": [
+                {
+                    "displayTitle": "Breakfast",
+                    "lookupKey": "breakfast",
+                    "type": "subcategory"
+                },
+                {
+                    "displayTitle": "Lunch",
+                    "lookupKey": "lunch",
+                    "type": "subcategory"
+                },
+                {
+                    "displayTitle": "Dinner",
+                    "lookupKey": "dinner",
+                    "type": "subcategory"
+                },
+                {
+                    "displayTitle": "Late Night Snacks",
+                    "lookupKey": "late_night_snacks",
+                    "type": "subcategory"
+                }
+            ],
+            "displayTitle": "MEALS",
+            "lookupKey": "category_meals",
+            "type": "category"
+        },
+        {
+            "children": [
+                            {
+                    "displayTitle": "Starting a Restaurant",
+                    "lookupKey": "starting_restaurant",
+                    "type": "subcategory"
+                },
+                {
+                    "displayTitle": "Science of Cooking",
+                    "lookupKey": "science_cooking",
+                    "type": "subcategory"
+                },
+                {
+                    "displayTitle": "Molecular Gastronomy",
+                    "lookupKey": "molecular_gastronomy",
+                    "type": "subcategory"
+                },
+                {
+                    "displayTitle": "Food Documentaries",
+                    "lookupKey": "food_documentaries",
+                    "type": "subcategory"
+                },
+                {
+                    "displayTitle": "Working in Restaurant",
+                    "lookupKey": "working_in_restaurant",
+                    "type": "subcategory"
+                },
+                {
+                    "displayTitle": "Thanksgiving",
+                    "imageUrl": "http://res.cloudinary.com/dj499fqns/image/upload/v1448406495/thanksgiving_yltwco.jpg",
+                    "lookupKey": "thanksgiving",
+                    "type": "subcategory"
+                }
+            ],
+            "displayTitle": "KEYWORDS",
+            "lookupKey": "category_keyword",
+            "type": "category"
+        }
+    ],
+    "settings": {
+        "forceupdateMessage": "Please update the latest Let's Chef App from the App Store",
+        "ios_min_version": 1,
+        "useWebview":false
+    },
+    "search_terms": [
+    "Knife skills",
+    "Jamie Oliver",
+    "Dessert",
+    "Breakfast"
+    ]
+}

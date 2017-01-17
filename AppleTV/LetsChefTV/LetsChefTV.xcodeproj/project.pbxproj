@@ -1,0 +1,495 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		AD92C99B1C2B0453002F3F3C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD92C99A1C2B0453002F3F3C /* AppDelegate.swift */; };
+		AD92C99D1C2B0453002F3F3C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD92C99C1C2B0453002F3F3C /* ViewController.swift */; };
+		AD92C9A01C2B0453002F3F3C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AD92C99E1C2B0453002F3F3C /* Main.storyboard */; };
+		AD92C9A21C2B0453002F3F3C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD92C9A11C2B0453002F3F3C /* Assets.xcassets */; };
+		AD92C9AD1C2B0453002F3F3C /* LetsChefTVTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD92C9AC1C2B0453002F3F3C /* LetsChefTVTests.swift */; };
+		AD92C9B81C2B0453002F3F3C /* LetsChefTVUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD92C9B71C2B0453002F3F3C /* LetsChefTVUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		AD92C9A91C2B0453002F3F3C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = AD92C98F1C2B0453002F3F3C /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = AD92C9961C2B0453002F3F3C;
+			remoteInfo = LetsChefTV;
+		};
+		AD92C9B41C2B0453002F3F3C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = AD92C98F1C2B0453002F3F3C /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = AD92C9961C2B0453002F3F3C;
+			remoteInfo = LetsChefTV;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		AD92C9971C2B0453002F3F3C /* LetsChefTV.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LetsChefTV.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		AD92C99A1C2B0453002F3F3C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		AD92C99C1C2B0453002F3F3C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		AD92C99F1C2B0453002F3F3C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		AD92C9A11C2B0453002F3F3C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		AD92C9A31C2B0453002F3F3C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AD92C9A81C2B0453002F3F3C /* LetsChefTVTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LetsChefTVTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		AD92C9AC1C2B0453002F3F3C /* LetsChefTVTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LetsChefTVTests.swift; sourceTree = "<group>"; };
+		AD92C9AE1C2B0453002F3F3C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AD92C9B31C2B0453002F3F3C /* LetsChefTVUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LetsChefTVUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		AD92C9B71C2B0453002F3F3C /* LetsChefTVUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LetsChefTVUITests.swift; sourceTree = "<group>"; };
+		AD92C9B91C2B0453002F3F3C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		AD92C9941C2B0453002F3F3C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AD92C9A51C2B0453002F3F3C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AD92C9B01C2B0453002F3F3C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		AD92C98E1C2B0453002F3F3C = {
+			isa = PBXGroup;
+			children = (
+				AD92C9991C2B0453002F3F3C /* LetsChefTV */,
+				AD92C9AB1C2B0453002F3F3C /* LetsChefTVTests */,
+				AD92C9B61C2B0453002F3F3C /* LetsChefTVUITests */,
+				AD92C9981C2B0453002F3F3C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		AD92C9981C2B0453002F3F3C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				AD92C9971C2B0453002F3F3C /* LetsChefTV.app */,
+				AD92C9A81C2B0453002F3F3C /* LetsChefTVTests.xctest */,
+				AD92C9B31C2B0453002F3F3C /* LetsChefTVUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		AD92C9991C2B0453002F3F3C /* LetsChefTV */ = {
+			isa = PBXGroup;
+			children = (
+				AD92C99A1C2B0453002F3F3C /* AppDelegate.swift */,
+				AD92C99C1C2B0453002F3F3C /* ViewController.swift */,
+				AD92C99E1C2B0453002F3F3C /* Main.storyboard */,
+				AD92C9A11C2B0453002F3F3C /* Assets.xcassets */,
+				AD92C9A31C2B0453002F3F3C /* Info.plist */,
+			);
+			path = LetsChefTV;
+			sourceTree = "<group>";
+		};
+		AD92C9AB1C2B0453002F3F3C /* LetsChefTVTests */ = {
+			isa = PBXGroup;
+			children = (
+				AD92C9AC1C2B0453002F3F3C /* LetsChefTVTests.swift */,
+				AD92C9AE1C2B0453002F3F3C /* Info.plist */,
+			);
+			path = LetsChefTVTests;
+			sourceTree = "<group>";
+		};
+		AD92C9B61C2B0453002F3F3C /* LetsChefTVUITests */ = {
+			isa = PBXGroup;
+			children = (
+				AD92C9B71C2B0453002F3F3C /* LetsChefTVUITests.swift */,
+				AD92C9B91C2B0453002F3F3C /* Info.plist */,
+			);
+			path = LetsChefTVUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		AD92C9961C2B0453002F3F3C /* LetsChefTV */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AD92C9BC1C2B0453002F3F3C /* Build configuration list for PBXNativeTarget "LetsChefTV" */;
+			buildPhases = (
+				AD92C9931C2B0453002F3F3C /* Sources */,
+				AD92C9941C2B0453002F3F3C /* Frameworks */,
+				AD92C9951C2B0453002F3F3C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = LetsChefTV;
+			productName = LetsChefTV;
+			productReference = AD92C9971C2B0453002F3F3C /* LetsChefTV.app */;
+			productType = "com.apple.product-type.application";
+		};
+		AD92C9A71C2B0453002F3F3C /* LetsChefTVTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AD92C9BF1C2B0453002F3F3C /* Build configuration list for PBXNativeTarget "LetsChefTVTests" */;
+			buildPhases = (
+				AD92C9A41C2B0453002F3F3C /* Sources */,
+				AD92C9A51C2B0453002F3F3C /* Frameworks */,
+				AD92C9A61C2B0453002F3F3C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				AD92C9AA1C2B0453002F3F3C /* PBXTargetDependency */,
+			);
+			name = LetsChefTVTests;
+			productName = LetsChefTVTests;
+			productReference = AD92C9A81C2B0453002F3F3C /* LetsChefTVTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		AD92C9B21C2B0453002F3F3C /* LetsChefTVUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AD92C9C21C2B0453002F3F3C /* Build configuration list for PBXNativeTarget "LetsChefTVUITests" */;
+			buildPhases = (
+				AD92C9AF1C2B0453002F3F3C /* Sources */,
+				AD92C9B01C2B0453002F3F3C /* Frameworks */,
+				AD92C9B11C2B0453002F3F3C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				AD92C9B51C2B0453002F3F3C /* PBXTargetDependency */,
+			);
+			name = LetsChefTVUITests;
+			productName = LetsChefTVUITests;
+			productReference = AD92C9B31C2B0453002F3F3C /* LetsChefTVUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		AD92C98F1C2B0453002F3F3C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0720;
+				LastUpgradeCheck = 0720;
+				ORGANIZATIONNAME = Alminty;
+				TargetAttributes = {
+					AD92C9961C2B0453002F3F3C = {
+						CreatedOnToolsVersion = 7.2;
+					};
+					AD92C9A71C2B0453002F3F3C = {
+						CreatedOnToolsVersion = 7.2;
+						TestTargetID = AD92C9961C2B0453002F3F3C;
+					};
+					AD92C9B21C2B0453002F3F3C = {
+						CreatedOnToolsVersion = 7.2;
+						TestTargetID = AD92C9961C2B0453002F3F3C;
+					};
+				};
+			};
+			buildConfigurationList = AD92C9921C2B0453002F3F3C /* Build configuration list for PBXProject "LetsChefTV" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = AD92C98E1C2B0453002F3F3C;
+			productRefGroup = AD92C9981C2B0453002F3F3C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				AD92C9961C2B0453002F3F3C /* LetsChefTV */,
+				AD92C9A71C2B0453002F3F3C /* LetsChefTVTests */,
+				AD92C9B21C2B0453002F3F3C /* LetsChefTVUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		AD92C9951C2B0453002F3F3C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AD92C9A21C2B0453002F3F3C /* Assets.xcassets in Resources */,
+				AD92C9A01C2B0453002F3F3C /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AD92C9A61C2B0453002F3F3C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AD92C9B11C2B0453002F3F3C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		AD92C9931C2B0453002F3F3C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AD92C99D1C2B0453002F3F3C /* ViewController.swift in Sources */,
+				AD92C99B1C2B0453002F3F3C /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AD92C9A41C2B0453002F3F3C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AD92C9AD1C2B0453002F3F3C /* LetsChefTVTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AD92C9AF1C2B0453002F3F3C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AD92C9B81C2B0453002F3F3C /* LetsChefTVUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		AD92C9AA1C2B0453002F3F3C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = AD92C9961C2B0453002F3F3C /* LetsChefTV */;
+			targetProxy = AD92C9A91C2B0453002F3F3C /* PBXContainerItemProxy */;
+		};
+		AD92C9B51C2B0453002F3F3C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = AD92C9961C2B0453002F3F3C /* LetsChefTV */;
+			targetProxy = AD92C9B41C2B0453002F3F3C /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		AD92C99E1C2B0453002F3F3C /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				AD92C99F1C2B0453002F3F3C /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		AD92C9BA1C2B0453002F3F3C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = appletvos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = 3;
+				TVOS_DEPLOYMENT_TARGET = 9.1;
+			};
+			name = Debug;
+		};
+		AD92C9BB1C2B0453002F3F3C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = appletvos;
+				TARGETED_DEVICE_FAMILY = 3;
+				TVOS_DEPLOYMENT_TARGET = 9.1;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		AD92C9BD1C2B0453002F3F3C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				INFOPLIST_FILE = LetsChefTV/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.alminty.LetsChefTV;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		AD92C9BE1C2B0453002F3F3C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				INFOPLIST_FILE = LetsChefTV/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.alminty.LetsChefTV;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		AD92C9C01C2B0453002F3F3C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = LetsChefTVTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.alminty.LetsChefTVTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LetsChefTV.app/LetsChefTV";
+			};
+			name = Debug;
+		};
+		AD92C9C11C2B0453002F3F3C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = LetsChefTVTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.alminty.LetsChefTVTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LetsChefTV.app/LetsChefTV";
+			};
+			name = Release;
+		};
+		AD92C9C31C2B0453002F3F3C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = LetsChefTVUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.alminty.LetsChefTVUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = LetsChefTV;
+				USES_XCTRUNNER = YES;
+			};
+			name = Debug;
+		};
+		AD92C9C41C2B0453002F3F3C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = LetsChefTVUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.alminty.LetsChefTVUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = LetsChefTV;
+				USES_XCTRUNNER = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		AD92C9921C2B0453002F3F3C /* Build configuration list for PBXProject "LetsChefTV" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AD92C9BA1C2B0453002F3F3C /* Debug */,
+				AD92C9BB1C2B0453002F3F3C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AD92C9BC1C2B0453002F3F3C /* Build configuration list for PBXNativeTarget "LetsChefTV" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AD92C9BD1C2B0453002F3F3C /* Debug */,
+				AD92C9BE1C2B0453002F3F3C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		AD92C9BF1C2B0453002F3F3C /* Build configuration list for PBXNativeTarget "LetsChefTVTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AD92C9C01C2B0453002F3F3C /* Debug */,
+				AD92C9C11C2B0453002F3F3C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		AD92C9C21C2B0453002F3F3C /* Build configuration list for PBXNativeTarget "LetsChefTVUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AD92C9C31C2B0453002F3F3C /* Debug */,
+				AD92C9C41C2B0453002F3F3C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = AD92C98F1C2B0453002F3F3C /* Project object */;
+}
